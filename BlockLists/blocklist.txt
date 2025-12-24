@@ -1,0 +1,14 @@
+Unified hosts = (adware + malware)
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+
+fakenews
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-only/hosts
+
+gambling
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts
+
+porn
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts
+
+social
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social-only/hosts
